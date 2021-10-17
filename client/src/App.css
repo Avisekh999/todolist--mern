@@ -1,0 +1,43 @@
+.landing {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: url('./img/water-5049286.jpg') no-repeat center center/cover;
+  height: 100vh;
+}
+
+.landing-inner {
+  color: #fff;
+  height: 100%;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.x-large {
+  font-size: 5rem;
+}
+
+.large {
+  font-size: 2rem;
+}
+
+.lead {
+  font-size: 1.5rem;
+  margin-bottom:50px;
+}
+
