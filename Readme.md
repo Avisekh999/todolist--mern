@@ -12,16 +12,9 @@ The SPA with 5 pages (routes):
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Demo
 
-Online Deployment of this project is available at [Todo App](https://tv2z-app.herokuapp.com/).
 
-You can use below credentials to test pagination and search functions of the app. The database is populated by fakerjs library.
 
-```
-email: john@gmail.com
-password: 123456
-```
 
 ### Getting Started
 
@@ -270,5 +263,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 JWT token for authentication is stored in the local storage of the browser and added to header of the request by setAuthToken function.
 
 ### Author
-
-- [salih18](https://github.com/salih18)
+Avisekh Gurung
